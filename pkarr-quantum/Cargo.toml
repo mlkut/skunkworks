@@ -1,0 +1,6 @@
+[package]
+name = "pkarr-quantum"
+
+[dependencies]
+blake3 = "1.7.0"
+getrandom = "0.2"
